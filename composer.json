@@ -1,5 +1,6 @@
 {
 	"name": "entegreio/entegre-core",
+	"version": "0.1",
 	"license": "MIT",
 	"description": "Library for easily generating frontend code",
 	"keywords": [ "entegre", "ui toolkit" ],
